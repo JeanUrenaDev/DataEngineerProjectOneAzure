@@ -1,0 +1,53 @@
+[
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+    "folderName": "Calendar",
+    "fileName": "Calendar.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+    "folderName": "Customers",
+    "fileName": "Customers.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+    "folderName": "Categories",
+    "fileName": "categories.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "folderName": "Subcategories",
+    "fileName": "subcategories.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+    "folderName": "Returns",
+    "fileName": "Returns.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+    "folderName": "Sales",
+    "fileName": "sales_2016.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+    "folderName": "Sales",
+    "fileName": "sales_2015.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+    "folderName": "Sales",
+    "fileName": "sales_2017.csv"
+  },
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+    "folderName": "Territories",
+    "fileName": "Territories.csv"
+  },
+
+  {
+    "route": "/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+    "folderName": "Products",
+    "fileName": "Products.csv"
+  }
+]
