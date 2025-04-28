@@ -1,0 +1,33 @@
+{
+	"name": "data",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "datalakeLinkedServer",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "data.json",
+				"fileSystem": "data"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"route": {
+					"type": "string"
+				},
+				"folderName": {
+					"type": "string"
+				},
+				"fileName": {
+					"type": "string"
+				}
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
